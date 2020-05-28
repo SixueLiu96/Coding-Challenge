@@ -5,9 +5,10 @@ This repo is for presenting the result of coding challenge. \
 Sole Author: Sixue Liu \
 Contact: sixueliu@uchicago.edu 
 
-This repo contains 5 files: 
+This repo contains 6 files: 
 - coding.ipynb: This file is the coding results in jupyter notebook version for the data challenge. 
 - coding.pdf: PDF version of coding.ipynb. 
 - Answers.pdf: For ANSWERS 1, 2, 3.
 - ExtraCreditAnswers.pdf: For ANSWERS 4, 5, 6. 
 - data2.json: JSON format for data, see the detailed explanation in coding.ipynb.
+- raw.txt: The original data set. 
